@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.303bf554.chunk.css",
-    "main.js": "/portfolio/static/js/main.4e9abc83.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4e9abc83.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.61764ef7.chunk.css",
+    "main.js": "/portfolio/static/js/main.2bbec0e2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2bbec0e2.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.834e370c.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.834e370c.js.map",
     "static/css/2.13f486c8.chunk.css": "/portfolio/static/css/2.13f486c8.chunk.css",
-    "static/js/2.68d1847f.chunk.js": "/portfolio/static/js/2.68d1847f.chunk.js",
-    "static/js/2.68d1847f.chunk.js.map": "/portfolio/static/js/2.68d1847f.chunk.js.map",
+    "static/js/2.2607da7a.chunk.js": "/portfolio/static/js/2.2607da7a.chunk.js",
+    "static/js/2.2607da7a.chunk.js.map": "/portfolio/static/js/2.2607da7a.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.13f486c8.chunk.css.map": "/portfolio/static/css/2.13f486c8.chunk.css.map",
-    "static/css/main.303bf554.chunk.css.map": "/portfolio/static/css/main.303bf554.chunk.css.map",
-    "static/js/2.68d1847f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.68d1847f.chunk.js.LICENSE.txt",
+    "static/css/main.61764ef7.chunk.css.map": "/portfolio/static/css/main.61764ef7.chunk.css.map",
+    "static/js/2.2607da7a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2607da7a.chunk.js.LICENSE.txt",
+    "static/media/about.f69e36e6.svg": "/portfolio/static/media/about.f69e36e6.svg",
     "static/media/mdb.css": "/portfolio/static/media/default-skin.f64c3af3.svg",
+    "static/media/education.74ef01df.svg": "/portfolio/static/media/education.74ef01df.svg",
     "static/media/all.min.css": "/portfolio/static/media/fa-solid-900.46fdbd2d.woff",
     "static/media/logo.71316738.svg": "/portfolio/static/media/logo.71316738.svg",
     "static/media/App.css": "/portfolio/static/media/paperbg.8d8e5b0d.jpg",
@@ -21,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.834e370c.js",
     "static/css/2.13f486c8.chunk.css",
-    "static/js/2.68d1847f.chunk.js",
-    "static/css/main.303bf554.chunk.css",
-    "static/js/main.4e9abc83.chunk.js"
+    "static/js/2.2607da7a.chunk.js",
+    "static/css/main.61764ef7.chunk.css",
+    "static/js/main.2bbec0e2.chunk.js"
   ]
 }
