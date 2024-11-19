@@ -1,4 +1,4 @@
-# Personal Portfolio
+# Personal Portfolio (Currently being rebuilt)
 
 ## Table of Contents
 - [Personal Portfolio](#personal-portfolio)
@@ -14,13 +14,6 @@
 ![App Img](https://i.imgur.com/36qaC6j.png)
 
 My personal portfolio. Technologies include react/html/css/jsx/javascript.
-
-## License
-[MIT](https://opensource.org/licenses/MIT)
-
-## Contributing & Credits
-Contact me at my email or linkedIn, but honestly I don't care do whatever you want just pop me into your credits. 
-This project was created with [Create React App](https://github.com/facebook/create-react-app) and [MDBootstrap](https://mdbootstrap.com/)
 
 ## Questions
 [GitHub: CptSpooky](https://github.com/CptSpooky)
